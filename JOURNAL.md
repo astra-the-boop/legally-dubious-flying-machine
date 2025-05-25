@@ -13,4 +13,10 @@ Today, me and Ghost met up to test the LoRa module I bought the other week since
 Turns out, both of her LoRa modules got fried (RIP),,, so uh that's great... but at least the "Lo"Ra modules do still work short-range (like a few cm apart) so we can still test that
 Outside of that, we also tested the accelerometer / gyro module, and seems to work? i don't understand the readings tho :sob: it's confusing...
 We decided to just stop buying new components for now, and work with what we have first, focussing on creating CAD and PCB models first to get the stippends as the entire group is like,,, really broke...
-<img src="journal-media/IMG_3927.png">
+
+<img src="journal-media/IMG_3927.png" style="width: 50%">
+<img src="journal-media/IMG_3926.png" style="width: 50%">
+<video src="journal-media/IMG_3928.mov" style="width: 50%">
+
+gyro testing vvv
+<video src="journal-media/IMG_3929.mov" style="width: 50%">
