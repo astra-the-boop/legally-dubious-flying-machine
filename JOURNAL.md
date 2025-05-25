@@ -17,6 +17,6 @@ We decided to just stop buying new components for now, and work with what we hav
 <img src="journal-media/IMG_3927.png" style="width: 50%">
 <img src="journal-media/IMG_3926.png" style="width: 50%">
 
-[LoRa](https://hc-cdn.hel1.your-objectstorage.com/s/v3/142abf9ee1947f46ea742f3a9a95a17131fc7f63_img_3928.mp4)
+[LoRa video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/142abf9ee1947f46ea742f3a9a95a17131fc7f63_img_3928.mp4)
 
-[gyro testing](https://hc-cdn.hel1.your-objectstorage.com/s/v3/621003c66919163e77c02e429bbf76a9c26b7368_img_3929.mp4)
+[gyro testing video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/621003c66919163e77c02e429bbf76a9c26b7368_img_3929.mp4)
