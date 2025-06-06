@@ -20,3 +20,6 @@ We decided to just stop buying new components for now, and work with what we hav
 [LoRa video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/142abf9ee1947f46ea742f3a9a95a17131fc7f63_img_3928.mp4)
 
 [gyro testing video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/621003c66919163e77c02e429bbf76a9c26b7368_img_3929.mp4)
+
+## June 6th 2025 - Logger: Astra
+Summer finally started + exams are over, so we can finally actually actually start working on this thing... now how the f^^k do i use freecad...
