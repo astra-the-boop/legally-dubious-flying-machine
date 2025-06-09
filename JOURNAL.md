@@ -23,3 +23,7 @@ We decided to just stop buying new components for now, and work with what we hav
 
 ## June 6th 2025 - Logger: Astra
 Summer finally started + exams are over, so we can finally actually actually start working on this thing... now how the f^^k do i use freecad...
+
+## June 9th 2025 - Logger: Astra
+I've been spending the past while trying to figure out how to use FreeCAD to no avail, genuinely cannot figure it out. to be fair, I couldn't figure out how to use the other CAD softwares too, but at least i got a bit further with Onshape so I think I'll be using that :P
+Really excited for what's to come :3c
