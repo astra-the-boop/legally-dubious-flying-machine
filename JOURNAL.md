@@ -27,3 +27,33 @@ Summer finally started + exams are over, so we can finally actually actually sta
 ## June 9th 2025 - Logger: Astra
 I've been spending the past while trying to figure out how to use FreeCAD to no avail, genuinely cannot figure it out. to be fair, I couldn't figure out how to use the other CAD softwares too, but at least i got a bit further with Onshape so I think I'll be using that :P
 Really excited for what's to come :3c
+
+## June 19th 2025 - Logger: Astra
+For the past 2 weeks or so I've been tryna figure out CAD modelling. Gave up on using FreeCAD and ended up using Onshape instead. Overall, things seem pretty great :D 
+Modelled most of the body and fuselage now, and we'll meet up tomorrow to discuss the wings' measurements so I can model it :D
+
+It took quite a while for me to figure out how to use Onshape, especially figuring out how to use new tools such as the loft tool (which i used for the back of the plane). But now that I figured it out, it's gonna be so much more convenient for future stuff!!!
+
+<img src="journal-media/sadfsdaf.png">
+The first time making something, started with a hollowed out cylinder. We agreed to have the walls be around 5mm thick
+
+<img src="journal-media/sdnlc.png">
+Designing nosecone - got feedback from groupmates and ended up changing some things a bit 
+<img src="journal-media/asldkfjksaf.png">
+<img src="journal-media/sdnlc.png">
+<img src="journal-media/csdlnkfwlec.png">
+<img src="journal-media/nfkcewn.png">
+
+Using the loft tool for the first time to design the tail / back / whatever it's called of the plane. It was quite confusing at first, took me a lot of time to troubleshoot, but at the end of the day, i got it working!!!
+<img src="journal-media/wkelqcnef.png">
+<img src="journal-media/Screenshot 2025-06-21 at 21.04.35.png">
+<img src="journal-media/Screenshot 2025-06-21 at 03.26.18.png">
+
+Oh and i also forgot to mention, i made it so that the top of the fuselage is removable so it's easy for us to make modifications inside the plane later on without completely disassembling the thing
+Here's how the final thing ended up looking
+<img src="journal-media/csaldknfw.png">
+
+Oh and also added a little holder / base thing for the wing as well
+<img src="journal-media/klncwelkfc.png">
+
+Gonna be meeting with group tmr so we can discuss wings (i think i alr mentinoed this above but cant find it :P)
