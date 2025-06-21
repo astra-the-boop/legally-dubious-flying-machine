@@ -57,3 +57,20 @@ Oh and also added a little holder / base thing for the wing as well
 <img src="journal-media/klncwelkfc.png">
 
 Gonna be meeting with group tmr so we can discuss wings (i think i alr mentinoed this above but cant find it :P)
+
+## June 20th 2025 - Logger: Astra
+Met up with group today!!! generally pretty okay, although less productive than originally planned, we still got all of the planned work done! smh had to bribe the physics nerd to come only for him to slack off the entire time (tbf, his interest is in electrical engineering not aero/fluid-dynamics) :3c
+we did a lot of calculations on the estimated weight of the plane once we bought everything (the batteries are SO heavy omg) and it seems pretty likely it'll be able to fly! although we will need a few battery packs (like 4 to 6) for it to fly for any extended period of time though- :(
+here are some photos of our meetup!!!
+<img src="journal-media/IMG_4096.png">
+<img src="journal-media/IMG_4097.png">
+<img src="journal-media/IMG_4098.png">
+<img src="journal-media/IMG_4099.png">
+<img src="journal-media/IMG_4100.png">
+
+here's some of the stuff that we ended up with :D
+<img src="journal-media/IMG_4111.png">
+
+also added holes to the thing too, i'll design the 2 wings later :3c
+<img src="journal-media/Screenshot 2025-06-21 at 21.57.16.png">
+took a bit to figure out because it has to be rotated 3º horizontally and 30º vertically :P
