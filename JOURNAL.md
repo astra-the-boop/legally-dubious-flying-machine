@@ -74,3 +74,9 @@ here's some of the stuff that we ended up with :D
 also added holes to the thing too, i'll design the 2 wings later :3c
 <img src="journal-media/Screenshot 2025-06-21 at 21.57.16.png">
 took a bit to figure out because it has to be rotated 3º horizontally and 30º vertically :P
+
+## July 1st 2025 - Logger: Ghost
+I started to learn how to do pcb, it was quite challanging espescially with all the footprints and I still need to find where all of the components are since im just starting
+
+## July 7th 2024 - Logger: Ghost
+I sorta finised the schematic and now I only need to add all the correct footprints and make a board design. The board consists of an Arduino Nano, a pca 9685 pwm LED controller for the servos and 2 motors, 1 buck boost converter for stability and an ams1117 for the LORA modules.
