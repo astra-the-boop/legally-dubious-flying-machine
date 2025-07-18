@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS63070RNMR")(type "KiCad")(uri "C:/Users/PC/Documents/KICAD_plane_lib")(options "")(descr ""))
+  (lib (name "XFL4020-152ME")(type "KiCad")(uri "C:/Users/PC/Documents/XFL4020-152ME")(options "")(descr ""))
+)

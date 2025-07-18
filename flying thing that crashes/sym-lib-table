@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS630701RNM")(type "KiCad")(uri "C:/Users/PC/Documents/XFL4020-152ME/XFL4020-152MEC.kicad_sym")(options "")(descr ""))
+  (lib (name "XFL4020-152MEC")(type "KiCad")(uri "C:/Users/PC/Documents/XFL4020-152ME/XFL4020-152MEC.kicad_sym")(options "")(descr ""))
+)
