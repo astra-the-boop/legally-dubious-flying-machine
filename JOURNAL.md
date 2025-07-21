@@ -80,3 +80,13 @@ I started to learn how to do pcb, it was quite challanging espescially with all 
 
 ## July 7th 2024 - Logger: Ghost
 I sorta finised the schematic and now I only need to add all the correct footprints and make a board design. The board consists of an Arduino Nano, a pca 9685 pwm LED controller for the servos and 2 motors, 1 buck boost converter for stability and an ams1117 for the LORA modules.
+
+
+## July 18th 2024 - Logger: Astra
+so uh yeah i did finish the wings technically a few weeks ago, BUT i realised that 30º might be a bit too big, so i ended up having to restart the entire damned thing, making it 25º... but yeah just last week i pretty much finished the main form of the wing for the most part, so i spent like a whole night or so remodelling everything. the math was really annoying, really tested my 3D vector and sohcahtoa shit (god save me i hate maths) but yeah, i did this once before so it's not _that_ big of an issue :3c
+
+<img src="journal-media/image_720.png">
+
+it honestly took me way too long to make the curvy thing at the end :sob: kasdlj,cf,dc,f
+
+anyway, gonna spend a bit modelling the uHH thing.. uh the motor-holder on the wings as well as the things for uhHHHHHHHHHHHHHHH the .... what's it called again.. servos yes servos
